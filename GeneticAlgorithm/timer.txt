@@ -1,0 +1,42 @@
+2025-04-08 15:44:16 INFO     Bench --> blackscholes
+2025-04-08 15:44:53 INFO           epsilon --> 4  time --> 0:00:37.674116
+2025-04-08 15:44:53 INFO     TOTAL TIME: 0:00:37.674692
+2025-04-08 15:50:35 INFO     Bench --> blackscholes
+2025-04-08 15:51:02 INFO           epsilon --> 4  time --> 0:00:27.255238
+2025-04-08 15:51:02 INFO     TOTAL TIME: 0:00:27.255836
+2025-04-08 15:52:17 INFO     Bench --> blackscholes
+2025-04-08 15:52:46 INFO           epsilon --> 4  time --> 0:00:29.725106
+2025-04-08 15:52:46 INFO     TOTAL TIME: 0:00:29.725679
+2025-04-15 10:52:53 INFO     Bench --> euler3d
+2025-04-15 10:55:05 INFO           epsilon --> 4  time --> 0:02:11.875101
+2025-04-15 10:55:05 INFO     TOTAL TIME: 0:02:11.875650
+2025-04-15 10:55:22 INFO     Bench --> hotspot
+2025-04-15 10:56:19 INFO           epsilon --> 4  time --> 0:00:57.548512
+2025-04-15 10:56:19 INFO     TOTAL TIME: 0:00:57.549057
+2025-04-15 11:02:29 INFO     Bench --> HPCCG
+2025-04-15 11:04:14 INFO           epsilon --> 4  time --> 0:01:44.610857
+2025-04-15 11:04:14 INFO     TOTAL TIME: 0:01:44.611506
+2025-04-15 11:23:51 INFO     Bench --> HPCCG
+2025-04-15 11:24:22 INFO           epsilon --> 4  time --> 0:00:31.117276
+2025-04-15 11:24:22 INFO     TOTAL TIME: 0:00:31.117847
+2025-04-15 11:57:11 INFO     Bench --> kmeans
+2025-04-15 11:58:03 INFO           epsilon --> 4  time --> 0:00:51.331329
+2025-04-15 11:58:03 INFO     TOTAL TIME: 0:00:51.331856
+2025-04-15 12:02:17 INFO     Bench --> kmeans
+2025-04-15 12:02:46 INFO           epsilon --> 4  time --> 0:00:28.365709
+2025-04-15 12:02:46 INFO     TOTAL TIME: 0:00:28.366258
+2025-04-15 12:04:58 INFO     Bench --> kmeans
+2025-04-15 12:05:41 INFO           epsilon --> 4  time --> 0:00:42.789391
+2025-04-15 12:05:41 INFO     TOTAL TIME: 0:00:42.789936
+2025-04-15 12:05:56 INFO     Bench --> kmeans
+2025-04-15 12:11:13 INFO           epsilon --> 4  time --> 0:05:16.510623
+2025-04-15 12:11:13 INFO     TOTAL TIME: 0:05:16.511233
+2025-04-15 12:11:20 INFO     Bench --> kmeans
+2025-04-15 12:11:21 INFO           epsilon --> 4  time --> 0:00:01.294839
+2025-04-15 12:11:21 INFO     TOTAL TIME: 0:00:01.295275
+2025-04-15 12:11:25 INFO     Bench --> lavaMD
+2025-04-15 12:11:44 INFO           epsilon --> 4  time --> 0:00:19.718746
+2025-04-15 12:11:44 INFO     TOTAL TIME: 0:00:19.719453
+2025-04-15 13:48:09 INFO     Bench --> lulesh
+2025-04-15 14:18:38 INFO           epsilon --> 4  time --> 0:30:28.594191
+2025-04-15 14:18:38 INFO     TOTAL TIME: 0:30:28.594627
